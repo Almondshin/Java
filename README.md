@@ -13,3 +13,5 @@ Java 정리, 실습 for README.md
 
 [https://github.com/Almondshin/CS_Interview/blob/main/%EA%B8%B0%EB%B3%B8%ED%98%95%ED%83%80%EC%9E%85.md]: https://github.com/Almondshin/CS_Interview/blob/main/%EA%B8%B0%EB%B3%B8%ED%98%95%ED%83%80%EC%9E%85.md
 
+* ### [기본형 타입(형)변환][https://github.com/Almondshin/CS_Interview/blob/main/%EA%B8%B0%EB%B3%B8%ED%98%95%20%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98.md]
+[https://github.com/Almondshin/CS_Interview/blob/main/%EA%B8%B0%EB%B3%B8%ED%98%95%20%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98.md]: https://github.com/Almondshin/CS_Interview/blob/main/%EA%B8%B0%EB%B3%B8%ED%98%95%20%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98.md
