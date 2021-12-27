@@ -1,15 +1,24 @@
 # CS_Interview
 
-# MARKDOWN
-MARKDOWN 정리, 실습 for README.md
+# JAVA
+Java 정리, 실습 for README.md
 
-# 1. 제목(글머리) 작성
-# H1 제목  
-## H2 부제목
-### H3 소제목
-#### H4 제목4
-##### H5 제목5
-###### H6 제목6
+# 1. 변수
+## 변수의 선언  
+* 타입 변수이름;
+``` java
+public class java
+{
+  public static void main(String[] args)
+  {
+  int count; ( 정수 값을 담을 수 있는 count 라는 이름의 변수를 선언)
+  double average; ( 실수 값을 담을 수 있는 average 라는 변수를 선언)
+  }
+}
+
+
+```
+
 
 
 # 2. 번호 없는 리스트 작성
