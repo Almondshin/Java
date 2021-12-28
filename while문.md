@@ -22,7 +22,7 @@ public class Java
     while (i<10) // i가 10보다 작을 때 까지 반복해서 실행한다
     {
       System.out.println(1);
-      i++; // i = i + 1;
+      i++; //조건문을 원하는 만큼만 반복하고 빠져나가기 위한 부분 
     }
   }
 }
