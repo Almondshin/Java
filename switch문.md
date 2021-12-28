@@ -28,7 +28,7 @@
         System.out.println("그 외 다른 숫자");
     }
     
-   switch(test)
+   switch(test) // if else처럼 사용하고 싶으면 break를 써야 한다.
    {
       case 10:
         System.out.println("10");
