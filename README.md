@@ -33,4 +33,8 @@ Java 정리, 실습 for README.md
 
 [https://github.com/Almondshin/Java/blob/main/if%EB%AC%B8.md]: https://github.com/Almondshin/Java/blob/main/if%EB%AC%B8.md
 
+* ## [논리 연산자][https://github.com/Almondshin/Java/blob/main/%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md]
+
+[https://github.com/Almondshin/Java/blob/main/%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md]: https://github.com/Almondshin/Java/blob/main/%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md
+
 
