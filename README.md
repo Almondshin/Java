@@ -45,6 +45,12 @@ Java 정리, 실습 for README.md
 
 [https://github.com/Almondshin/Java/blob/main/switch%EB%AC%B8.md]: https://github.com/Almondshin/Java/blob/main/switch%EB%AC%B8.md
 
+* ## [while문][https://github.com/Almondshin/Java/blob/main/while%EB%AC%B8.md]
+
+[https://github.com/Almondshin/Java/blob/main/while%EB%AC%B8.md]: https://github.com/Almondshin/Java/blob/main/while%EB%AC%B8.md
+
+
+
 
 
 
