@@ -11,7 +11,7 @@
     실행문;
   }
   ```
-
+* Continue
   ```Java
   public class Java
   {
@@ -32,6 +32,7 @@
   }
   ```
 
+* break
   ```Java
   public class Java
   {
