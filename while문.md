@@ -49,3 +49,31 @@ public class Java
 }
 
 ```
+
+### do while문이란?
+* do while문의 경우는 무조건 한번은 실행되는 반복문이다
+* Scanner는 java.util 패키지에 있는 클래스로써 키보드로 부터 값을 입력받는다던지 할 때 유용하게 사용할 수 있는 클래스입니다.
+
+```Java
+import java.util.Scanner
+
+public class Java
+{
+  public static void main(String[] args)
+  {
+   int value = 0;
+   Scanner scan = new Scanner(System.in); // 키보드로 부터 값을 입력받는 클래스 (Scanner)
+   do
+   {
+      value = scan.nextInt(); // 정수값을 입력받아서 value에 넣어줌
+      System.out.println("입력받은 값 : "+ value);
+      //반복될 문장들
+   }
+      while(value != 10); // value가 10이 아니라면 계속 실행하고 싶어요
+      
+      System.out.println("반복문 종료!");
+  }
+}
+
+```
+
