@@ -31,3 +31,23 @@
     }
   }
   ```
+
+  ```Java
+  public class Java
+  {
+    public static void main(String[] args)
+    {
+      int total = 0;
+      
+      for(int i = 1; i <= 100; i++)
+      {
+        if(i % 2 != 0)  // 2로 나눈 나머지가 0이 아니라는것은 홀수를 의미한다. 
+        {
+          break; // break를 만나게되면 반복문을 빠져나온다.
+        }
+        total++;
+      }
+      System.out.println(total);
+    }
+  }
+  ```
